@@ -1,0 +1,32 @@
+2023년 9월 23일 7시 44분 37초        #### 전체컴파일함 ####
+이것은 PCI 파일의 Conv내용입니다.
+0    S0    E0      |1    S1    E2      |2    S3    E3      |3    S4    E4      |
+4    S5    E17     |5    S18   E28     |6    S29   E43     |7    S44   E52     |
+이것은 PCI 파일의 Comp내용입니다.
+0    S0    E1      |1    S2    E4      |2    S5    E6      |3    S7    E8      |
+4    S9    E43     |5    S44   E99     |6    S100  E154    |7    S155  E204    |
+
+********************************************************************************
+
+변수 주소 - 전체
+DRILLOFF : B V 0.0            EJECTRESET : B V 0.1          IMPLAUSIBLE : B V 0.2         
+INST0 : F V 36                INST1 : F V 56                INST10 : F V 76               
+INST11 : F V 96               INST12 : F V 116              INST13 : F V 136              
+INST14 : F V 156              INST15 : F V 176              INST16 : F V 196              
+INST17 : F V 216              INST18 : F V 236              INST19 : F V 256              
+INST2 : F V 276               INST20 : F V 296              INST21 : F V 316              
+INST22 : F V 336              INST23 : F V 356              INST24 : F V 376              
+INST25 : F V 396              INST26 : F V 416              INST27 : F V 436              
+INST28 : F V 456              INST3 : F V 476               INST4 : F V 496               
+INST5 : F V 516               INST6 : F V 536               INST7 : F V 556               
+INST8 : F V 576               INST9 : F V 596               LOGAM : B V 0.3               
+M0 : B V 0.4                  M1 : B V 0.5                  M10 : B V 0.6                 
+M11 : B V 0.7                 M12 : B V 1.0                 M13 : B V 1.1                 
+M14 : B V 1.2                 M15 : B V 1.3                 M2 : B V 1.4                  
+M3 : B V 1.5                  M4 : B V 1.6                  M5 : B V 1.7                  
+M6 : B V 2.0                  M7 : B V 2.1                  M8 : B V 2.2                  
+M9 : B V 2.3                  OUT_EJECTOFF : B V 2.4        TON : F V 616                 
+TON0 : F V 636                TON1 : F V 656                Y1 : B V 2.5                  
+Y2 : B V 2.6                  Y3 : B V 2.7                  Z : B V 3.0                   
+********************************************************************************
+
