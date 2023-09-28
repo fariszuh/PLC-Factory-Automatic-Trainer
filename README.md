@@ -1,5 +1,7 @@
 # Factory Automatic Trainer (FAT) - Lab. Kontrol Otomasi ITS 2022/2023
 
+<img src="Foto FAT.jpg" alt="drawing" width="150"/>
+
 Consist of 2 module:
 1. Labwork Project: Praktikum Laboratorium Kontrol dan Pengaturan Digital
 
